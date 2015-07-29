@@ -40,8 +40,5 @@ class ViewController: UIViewController {
 }
 
 
-<<<<<<< HEAD
 
-=======
->>>>>>> feature-q
 
