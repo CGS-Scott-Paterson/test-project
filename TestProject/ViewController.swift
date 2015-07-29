@@ -16,7 +16,9 @@ class ViewController: UIViewController {
         
         // debug line of code
         println("Hello World")
-        
+      
+        var Home = ("amaroo")
+        var school = ("CGS")
     }
 
     func avrageFeature() {
@@ -35,5 +37,4 @@ class ViewController: UIViewController {
 }
 
 
-}
 
