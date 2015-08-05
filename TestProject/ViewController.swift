@@ -38,10 +38,7 @@ class ViewController: UIViewController {
     }
     
     func featureY() {
-<<<<<<< HEAD
         
-=======
->>>>>>> feature-q
         for i in 0...10 {
             println(i)
             
