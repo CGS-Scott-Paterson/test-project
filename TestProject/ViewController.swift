@@ -9,7 +9,13 @@
 import UIKit
 
 class ViewController: UIViewController {
+    
+    @IBOutlet weak var school: UIButton!
 
+    @IBOutlet weak var home: UIButton!
+    
+    @IBOutlet weak var homeGound: UIButton!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
@@ -19,6 +25,8 @@ class ViewController: UIViewController {
       
         var Home = ("amaroo")
         var school = ("CGS")
+        var HomeGround = ("tugrenong")
+        
     }
 
     func avrageFeature() {
@@ -29,7 +37,7 @@ class ViewController: UIViewController {
     
     }
     
-    func featureY {
+    func featureY() {
         for i in 0...10 {
             println(i)
         }
