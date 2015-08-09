@@ -26,7 +26,6 @@ class ViewController: UIViewController {
         var Home = ("amaroo")
         var school = ("CGS")
         var HomeGround = ("tugrenong court 3")
-        
     }
 
     func avrageFeature() {
