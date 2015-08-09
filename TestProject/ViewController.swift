@@ -25,7 +25,7 @@ class ViewController: UIViewController {
       
         var Home = ("amaroo")
         var school = ("CGS")
-        var HomeGround = ("tugrenong")
+        var HomeGround = ("tugrenong court 3")
         
     }
 
